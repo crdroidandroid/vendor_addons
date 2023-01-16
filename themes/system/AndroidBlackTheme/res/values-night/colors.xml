@@ -43,4 +43,14 @@
     <color name="system_neutral2_800">#171717</color>
     <color name="system_neutral2_900">#000000</color>
     <color name="system_neutral2_1000">#000000</color>
+
+    <color name="system_accent1_1000">#000000</color>
+    <color name="system_accent2_1000">#000000</color>
+    <color name="system_accent3_1000">#000000</color>
+
+    <color name="background_device_default_dark">#000000</color>
+    <color name="primary_dark_device_default_dark">#000000</color>
+    <color name="primary_dark_device_default_settings">#000000</color>
+    <color name="primary_device_default_dark">#000000</color>
+    <color name="primary_device_default_settings">#000000</color>
 </resources>
