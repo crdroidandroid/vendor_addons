@@ -22,7 +22,7 @@
             android:insetBottom="4dp"
             android:insetTop="4dp">
             <shape android:shape="rectangle">
-                <corners android:radius="?android:attr/dialogCornerRadius" />
+                <corners android:radius="@*android:dimen/config_dialogCornerRadius" />
                 <padding
                     android:left="20dp"
                     android:right="20dp" />

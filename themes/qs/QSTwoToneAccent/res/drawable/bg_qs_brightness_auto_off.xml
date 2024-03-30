@@ -16,7 +16,7 @@
   -->
 
 <shape xmlns:android="http://schemas.android.com/apk/res/android">
-    <corners android:radius="?android:attr/dialogCornerRadius" />
+    <corners android:radius="@*android:dimen/config_dialogCornerRadius" />
     <solid android:color="@drawable/color_accent_alpha" />
     <size android:width="48dp" android:height="48dp" />
 </shape>

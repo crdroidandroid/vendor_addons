@@ -21,7 +21,7 @@
     <item>
         <shape android:shape="rectangle">
         	 <stroke android:width="@dimen/qs_tile_stroke" android:color="@drawable/color_accent_alpha" />
-                <corners android:radius="?android:attr/dialogCornerRadius" />
+                <corners android:radius="@*android:dimen/config_dialogCornerRadius" />
                 <padding
                     android:left="10dp"
                     android:right="10dp" />
