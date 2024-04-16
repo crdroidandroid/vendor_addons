@@ -4,4 +4,5 @@
     <dimen name="z_distance_between_notifications">3dp</dimen>
     <dimen name="notification_children_container_divider_height">2dp</dimen>
     <item name="notification_divider_alpha" format="float" type="dimen">0</item>
+    <dimen name="qs_corner_radius">@*android:dimen/config_dialogCornerRadius</dimen>
 </resources>
