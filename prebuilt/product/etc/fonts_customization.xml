@@ -573,6 +573,17 @@
         <font weight="300" style="normal">PlantsLetters.ttf</font>
     </family>
 
+    <!-- Play -->
+    <family customizationType="new-named-family" name="play">
+        <font weight="400" style="normal">Play-Regular.ttf</font>
+        <font weight="700" style="normal">Play-Bold.ttf</font>
+    </family>
+    <alias name="play-light" to="play" weight="300" />
+    <alias name="play-regular" to="play" weight="400" />
+    <alias name="play-medium" to="play" weight="500" />
+    <alias name="play-semi-bold" to="play" weight="600" />
+    <alias name="play-bold" to="play" weight="700" />
+
     <!-- Quando -->
     <family customizationType="new-named-family" name="quando">
         <font weight="400" style="normal">Quando.ttf</font>
