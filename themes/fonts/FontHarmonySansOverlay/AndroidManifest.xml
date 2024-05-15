@@ -26,6 +26,6 @@
     <application android:label="@string/font_harmonyos_sans_overlay" android:hasCode="false">
         <meta-data
             android:name="android.theme.customization.REQUIRED_SYSTEM_FONTS"
-            android:value="harmonyos-sans,harmonyos-sans-medium,harmonyos-sans-semi-bold,harmonyos-sans-bold,harmonyos-sans-light,harmonyos-sans-regular" />
+            android:value="harmonyos-sans,harmonyos-sans-medium"/>
     </application>
 </manifest>
