@@ -20,7 +20,7 @@
     <!-- Specifies the path that is used by AdaptiveIconDrawable class to crop launcher icons. -->
     <string name="config_icon_mask" translatable="false">"M24,0L76,0A24 24 0 0 1 100,24L100,76A24 24 0 0 1 76,100L24,100A24 24 0 0 1 0,76L0,24A24 24 0 0 1 24,0z"</string>
     <!-- Flag indicating whether round icons should be parsed from the application manifest. -->
-    <bool name="config_useRoundIcon">false</bool>
+    <bool name="config_useRoundIcon">true</bool>
     <!-- Corner radius of system dialogs -->
     <dimen name="config_dialogCornerRadius">12dp</dimen>
     <!-- Corner radius for bottom sheet system dialogs -->
