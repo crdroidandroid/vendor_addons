@@ -24,4 +24,6 @@
     <dimen name="qs_top_brightness_margin_bottom">20dp</dimen>
     <dimen name="qs_bottom_brightness_margin_top">12dp</dimen>
     <dimen name="qs_bottom_brightness_margin_bottom">4dp</dimen>
+    <dimen name="large_screen_shade_header_min_height">56dp</dimen>
+    <dimen name="qs_panel_padding_top">100dp</dimen>
 </resources>
