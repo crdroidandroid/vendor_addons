@@ -16,5 +16,5 @@
 -->
 <resources>
 
-    <color name="accent_primary_device_default">@color/system_accent2_50</color>
+    <color name="accent_primary_device_default">@android:color/system_accent2_50</color>
 </resources>
