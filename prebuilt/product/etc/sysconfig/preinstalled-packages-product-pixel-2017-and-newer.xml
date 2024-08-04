@@ -33,6 +33,7 @@
         <install-in user-type="FULL" />
         <install-in user-type="PROFILE" />
         <do-not-install-in user-type="android.os.usertype.profile.CLONE" />
+        <do-not-install-in user-type="android.os.usertype.profile.PRIVATE" />
     </install-in-user-type>
 
     <!--  Calculator (CalculatorGooglePrebuilt) -->
@@ -45,6 +46,7 @@
         <install-in user-type="FULL" />
         <install-in user-type="PROFILE" />
         <do-not-install-in user-type="android.os.usertype.profile.CLONE" />
+        <do-not-install-in user-type="android.os.usertype.profile.PRIVATE" />
     </install-in-user-type>
 
     <!--  Camera (GoogleCamera) -->
@@ -53,10 +55,8 @@
         <install-in user-type="PROFILE" />
     </install-in-user-type>
 
-    <!--  Chrome (Chrome)
-    TODO(b/258064764): Check if this should be preinstalled on SYSTEM user -->
+    <!--  Chrome (Chrome) -->
     <install-in-user-type package="com.android.chrome">
-        <install-in user-type="SYSTEM" />
         <install-in user-type="FULL" />
         <install-in user-type="PROFILE" />
         <do-not-install-in user-type="android.os.usertype.profile.CLONE" />
@@ -85,9 +85,9 @@
 
     <!--  Drive (Drive) -->
     <install-in-user-type package="com.google.android.apps.docs">
-        <install-in user-type="SYSTEM" />
         <install-in user-type="FULL" />
         <install-in user-type="PROFILE" />
+        <do-not-install-in user-type="android.os.usertype.profile.PRIVATE" />
     </install-in-user-type>
 
     <!--  Files (FilesPrebuilt) -->
@@ -102,6 +102,7 @@
         <install-in user-type="FULL" />
         <install-in user-type="PROFILE" />
         <do-not-install-in user-type="android.os.usertype.profile.CLONE" />
+        <do-not-install-in user-type="android.os.usertype.profile.PRIVATE" />
     </install-in-user-type>
 
     <!--  Google Play Movies & TV (PlayVideos) -->
@@ -109,6 +110,7 @@
         <install-in user-type="FULL" />
         <install-in user-type="PROFILE" />
         <do-not-install-in user-type="android.os.usertype.profile.CLONE" />
+        <do-not-install-in user-type="android.os.usertype.profile.PRIVATE" />
     </install-in-user-type>
 
     <!--  Google Search (GoogleSearchPrebuilt) -->
@@ -116,19 +118,25 @@
         <install-in user-type="FULL" />
         <install-in user-type="PROFILE" />
         <do-not-install-in user-type="android.os.usertype.profile.CLONE" />
+        <do-not-install-in user-type="android.os.usertype.profile.PRIVATE" />
     </install-in-user-type>
 
     <!-- Maps (Maps) -->
     <install-in-user-type package="com.google.android.apps.maps">
         <install-in user-type="FULL" />
         <install-in user-type="PROFILE" />
+        <do-not-install-in user-type="android.os.usertype.profile.CLONE" />
+        <do-not-install-in user-type="android.os.usertype.profile.PRIVATE" />
     </install-in-user-type>
 
     <!--  Messages (PrebuiltBugle) -->
+    <!-- mesaging running on any user uses SYSTEM user's messaging instance to process messages. -->
     <install-in-user-type package="com.google.android.apps.messaging">
+        <install-in user-type="SYSTEM" />
         <install-in user-type="FULL" />
         <install-in user-type="PROFILE" />
         <do-not-install-in user-type="android.os.usertype.profile.CLONE" />
+        <do-not-install-in user-type="android.os.usertype.profile.PRIVATE" />
     </install-in-user-type>
 
     <!--  Personal Safety (SafetyHubLprPrebuilt)
@@ -138,15 +146,15 @@
         <install-in user-type="FULL" />
         <install-in user-type="PROFILE" />
         <do-not-install-in user-type="android.os.usertype.profile.CLONE" />
+        <do-not-install-in user-type="android.os.usertype.profile.PRIVATE" />
     </install-in-user-type>
 
-    <!--  Phone (GoogleDialer)
-    TODO(b/259300383): Check if this should be preinstalled on SYSTEM user -->
+    <!--  Phone (GoogleDialer) -->
     <install-in-user-type package="com.google.android.dialer">
-        <install-in user-type="SYSTEM" />
         <install-in user-type="FULL" />
         <install-in user-type="PROFILE" />
         <do-not-install-in user-type="android.os.usertype.profile.CLONE" />
+        <do-not-install-in user-type="android.os.usertype.profile.PRIVATE" />
     </install-in-user-type>
 
     <!--  Photos (Photos) -->
@@ -170,5 +178,13 @@
         <install-in user-type="FULL" />
         <install-in user-type="PROFILE" />
         <do-not-install-in user-type="android.os.usertype.profile.CLONE" />
+        <do-not-install-in user-type="android.os.usertype.profile.PRIVATE" />
+    </install-in-user-type>
+
+    <!-- Well being app. Loaded from vendor/google/products/pixel_experience_2017_and_newer.mk-->
+    <install-in-user-type package="com.google.android.apps.wellbeing">
+        <install-in user-type="FULL" />
+        <install-in user-type="PROFILE" />
+        <do-not-install-in user-type="android.os.usertype.profile.PRIVATE" />
     </install-in-user-type>
 </config>
