@@ -4,24 +4,32 @@
     android:width="192dp"
     android:height="192dp">
     <path
-        android:pathData="M36 30H156A6 6 0 0 1 162 36V156A6 6 0 0 1 156 162H36A6 6 0 0 1 30 156V36A6 6 0 0 1 36 30Z"
-        android:strokeColor="#000000"
-        android:strokeWidth="12"
-        android:strokeLineJoin="round" />
-    <path
-        android:pathData="M105 87A9 9 0 0 1 87 87A9 9 0 0 1 105 87Z"
-        android:strokeColor="#000000"
-        android:strokeWidth="8"
-        android:strokeLineJoin="round" />
-    <path
-        android:pathData="M125 87c0 5.09 -1.34 10.091 -3.885 14.5C118.569 105.909 96 134 96 134s-22.57 -28.091 -25.115 -32.5A29 29 0 1 1 125 87z"
-        android:strokeColor="#000000"
-        android:strokeWidth="12"
-        android:strokeLineJoin="round" />
-    <path
-        android:pathData="M160 80c-6 -4 -26 -8 -37 -3m37 59.5c-6 -4 -15 -19.5 -50 -19.5M68 96c-8 3 -32 2 -38 -6m53 29c-8 3 -21 15 -53 4.333"
+        android:pathData="M101 86A5 5 0 0 1 91 86A5 5 0 0 1 101 86Z"
         android:strokeColor="#000000"
         android:strokeWidth="10"
-        android:strokeLineJoin="round"
-        android:strokeLineCap="round" />
+        android:strokeLineJoin="round" />
+    <path
+        android:pathData="M65.09 94.28C69.09 110 96 138 96 138m30.91 -43.72C122.91 110 96 138 96 138"
+        android:strokeColor="#000000"
+        android:strokeWidth="12"
+        android:strokeLineCap="round"
+        android:strokeLineJoin="round" />
+    <path
+        android:pathData="M126.91 94.282a32 32 0 1 0 -61.82 0"
+        android:strokeColor="#000000"
+        android:strokeWidth="12"
+        android:strokeLineCap="round"
+        android:strokeLineJoin="round" />
+    <path
+        android:pathData="M166 79s-18 -10 -41 -4m41 64.5S148 117 116 118M66 96c-8 3 -33 3 -40 -6m52 30c-22 17 -52 4.5 -52 4.5"
+        android:strokeColor="#000000"
+        android:strokeWidth="10"
+        android:strokeLineCap="round"
+        android:strokeLineJoin="round" />
+    <path
+        android:pathData="M31 25H161A6 6 0 0 1 167 31V161A6 6 0 0 1 161 167H31A6 6 0 0 1 25 161V31A6 6 0 0 1 31 25Z"
+        android:strokeColor="#000000"
+        android:strokeWidth="12"
+        android:strokeLineCap="round"
+        android:strokeLineJoin="round" />
 </vector>

@@ -10,7 +10,7 @@
         android:strokeLineCap="round"
         android:strokeLineJoin="round" />
     <path
-        android:pathData="M72 170a24.999 24.999 0 0 0 -42.678 -17.678A25.01 25.01 0 0 0 22 170h50zm-2 0h52m48 0a25.006 25.006 0 0 0 -42.678 -17.678A25.01 25.01 0 0 0 120 170h50zM64.728 27.272a18 18 0 1 0 -25.456 25.456m113.456 0a18.005 18.005 0 0 0 -19.616 -29.358 18.005 18.005 0 0 0 -5.84 3.902"
+        android:pathData="M72 170a25 25 0 0 0 -50 0zm-2 0h52m48 0a25 25 0 0 0 -50 0zM64.728 27.272a18 18 0 1 0 -25.456 25.456m113.456 0a18 18 0 0 0 -25.456 -25.456"
         android:strokeColor="#000000"
         android:strokeWidth="12"
         android:strokeLineCap="round"
@@ -22,19 +22,19 @@
         android:strokeLineCap="round"
         android:strokeLineJoin="round" />
     <path
-        android:pathData="M87 94c0 -3 9 -3 9 -3s9 0 9 3 -9 3 -9 3 -9 0 -9 -3zm0 13s3 3 9 3 9 -3 9 -3"
+        android:pathData="M87 94c0 -3 9 -3 9 -3s9 0 9 3 -9 3 -9 3 -9 0 -9 -3m0 13s3 3 9 3 9 -3 9 -3"
         android:strokeColor="#000000"
         android:strokeWidth="6"
         android:strokeLineCap="round"
         android:strokeLineJoin="round" />
     <path
-        android:pathData="M74.139 91c3.77 -4.167 7.542 -13.333 7.542 -13.333C85.45 69.75 80.843 61 71.625 61S49 77.667 49 85.167 54.028 96 61.57 96c6.033 0 8.798 -0.833 12.569 -5zm43.722 0c-3.771 -4.167 -7.542 -13.333 -7.542 -13.333C106.548 69.75 111.157 61 120.375 61S143 77.667 143 85.167 137.972 96 130.43 96c-6.033 0 -8.798 -0.833 -12.569 -5z"
+        android:pathData="M74.139 91c3.77 -4.167 7.542 -13.333 7.542 -13.333C85.45 69.75 80.843 61 71.625 61S49 77.667 49 85.167 54.028 96 61.57 96c6.033 0 8.798 -0.833 12.569 -5m43.722 0c-3.771 -4.167 -7.542 -13.333 -7.542 -13.333C106.548 69.75 111.157 61 120.375 61S143 77.667 143 85.167 137.972 96 130.43 96c-6.033 0 -8.798 -0.833 -12.569 -5"
         android:strokeColor="#000000"
         android:strokeWidth="8"
         android:strokeLineCap="round"
         android:strokeLineJoin="round" />
     <path
-        android:pathData="M74 81a4 4 0 1 1 -8 0 4 4 0 0 1 8 0zm44 0a4 4 0 1 0 8 0.002 4 4 0 0 0 -8 -0.002z"
+        android:pathData="M74 81a4 4 0 1 1 -8 0 4 4 0 0 1 8 0m44 0a4 4 0 1 0 8 0.002 4 4 0 0 0 -8 -0.002"
         android:strokeColor="#000000"
         android:strokeWidth="8"
         android:strokeLineCap="round"

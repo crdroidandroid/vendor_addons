@@ -4,31 +4,45 @@
     android:width="192dp"
     android:height="192dp">
     <path
-        android:pathData="M27 85h74a6 6 0 0 1 6 6v74a6 6 0 0 1 -6 6H27a6 6 0 0 1 -6 -6V91a6 6 0 0 1 6 -6Zm58 -58v30a6 6 0 0 0 6 6h32a6 6 0 0 1 6 6v32a6 6 0 0 0 6 6h30a6 6 0 0 0 6 -6V27a6 6 0 0 0 -6 -6H91a6 6 0 0 0 -6 6Z"
+        android:pathData="M30 88h68a6 6 0 0 1 6 6v68a6 6 0 0 1 -6 6H30a6 6 0 0 1 -6 -6V94a6 6 0 0 1 6 -6m64 -64h68a6 6 0 0 1 6 6v68a6 6 0 0 1 -6 6h-28a6 6 0 0 1 -6 -6V70a6 6 0 0 0 -6 -6H94a6 6 0 0 1 -6 -6V30a6 6 0 0 1 6 -6"
         android:strokeColor="#000000"
-        android:strokeWidth="10" />
+        android:strokeWidth="10"
+        android:strokeLineCap="round"
+        android:strokeLineJoin="round" />
     <path
-        android:pathData="M68 128A4 4 0 0 1 60 128A4 4 0 0 1 68 128Z"
+        android:pathData="M67 128A3 3 0 0 1 61 128A3 3 0 0 1 67 128Z"
         android:strokeColor="#000000"
-        android:strokeWidth="8" />
+        android:strokeWidth="6"
+        android:strokeLineCap="round"
+        android:strokeLineJoin="round" />
     <path
-        android:pathData="M154 42A4 4 0 0 1 146 42A4 4 0 0 1 154 42Z"
+        android:pathData="M151 44A3 3 0 0 1 145 44A3 3 0 0 1 151 44Z"
         android:strokeColor="#000000"
-        android:strokeWidth="8" />
+        android:strokeWidth="6"
+        android:strokeLineCap="round"
+        android:strokeLineJoin="round" />
     <path
-        android:pathData="M154 86A4 4 0 0 1 146 86A4 4 0 0 1 154 86Z"
+        android:pathData="M151 84A3 3 0 0 1 145 84A3 3 0 0 1 151 84Z"
         android:strokeColor="#000000"
-        android:strokeWidth="8" />
+        android:strokeWidth="6"
+        android:strokeLineCap="round"
+        android:strokeLineJoin="round" />
     <path
-        android:pathData="M110 42A4 4 0 0 1 102 42A4 4 0 0 1 110 42Z"
+        android:pathData="M111 44A3 3 0 0 1 105 44A3 3 0 0 1 111 44Z"
         android:strokeColor="#000000"
-        android:strokeWidth="8" />
+        android:strokeWidth="6"
+        android:strokeLineCap="round"
+        android:strokeLineJoin="round" />
     <path
-        android:pathData="M88 148A4 4 0 0 1 80 148A4 4 0 0 1 88 148Z"
+        android:pathData="M86 147A3 3 0 0 1 80 147A3 3 0 0 1 86 147Z"
         android:strokeColor="#000000"
-        android:strokeWidth="8" />
+        android:strokeWidth="6"
+        android:strokeLineCap="round"
+        android:strokeLineJoin="round" />
     <path
-        android:pathData="M48 108A4 4 0 0 1 40 108A4 4 0 0 1 48 108Z"
+        android:pathData="M48 109A3 3 0 0 1 42 109A3 3 0 0 1 48 109Z"
         android:strokeColor="#000000"
-        android:strokeWidth="8" />
+        android:strokeWidth="6"
+        android:strokeLineCap="round"
+        android:strokeLineJoin="round" />
 </vector>

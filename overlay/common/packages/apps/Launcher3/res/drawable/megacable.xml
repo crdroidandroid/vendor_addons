@@ -19,7 +19,7 @@
         android:strokeWidth="10"
         android:strokeLineCap="round" />
     <path
-        android:pathData="M79 82s-6.237 -7.485 -14.92 -10.699a4.541 4.541 0 0 0 -4.654 0.902C53.348 77.69 36 97.11 36 140"
+        android:pathData="M79 82s-6.237 -7.485 -14.92 -10.699a4.54 4.54 0 0 0 -4.654 0.902C53.348 77.69 36 97.11 36 140"
         android:strokeColor="#000000"
         android:strokeWidth="10"
         android:strokeLineCap="round" />

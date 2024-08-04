@@ -51,7 +51,7 @@
     <group
         android:translateX="0.466">
         <path
-            android:pathData="M17.79 36.013v-8.597h4.015c2.14 0.106 3.203 1.248 3.203 2.986 0 1.738 -1.061 2.987 -3.203 2.987H17.79"
+            android:pathData="M17.79 36.013v-8.597h4.015c2.14 0.106 3.203 1.248 3.203 2.986s-1.061 2.987 -3.203 2.987H17.79"
             android:strokeColor="#000000"
             android:strokeWidth="3.175"
             android:strokeLineCap="round"

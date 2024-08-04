@@ -4,9 +4,6 @@
     android:width="192dp"
     android:height="192dp">
     <path
-        android:pathData="M23 85l62 -62 -62 62Zm84 84l62 -62 -62 62Zm8 -146l54 54 -54 -54ZM91 55L65 81l26 -26Zm46 46l-26 26 26 -26Zm-75 5l24 24 -24 -24Z"
-        android:fillColor="#000000" />
-    <path
         android:pathData="M23 85l62 -62m22 146l62 -62m-54 -84l54 54M91 55L65 81m72 20l-26 26m-49 -21l24 24"
         android:strokeColor="#000000"
         android:strokeWidth="14"

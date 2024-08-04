@@ -28,7 +28,7 @@
         android:strokeLineCap="round"
         android:strokeLineJoin="round" />
     <path
-        android:pathData="M22 111l25 -63 14 12 35 -34 31 34 12 -12 31 63 -20 13 -1 12 -13 8h-8l-8 5 -8 2 -16 13 -11 -8 -13 -3 -16 -5 -14 -18 -20 -19Z"
+        android:pathData="M22 111l25 -63 14 12 35 -34 31 34 12 -12 31 63 -20 13 -1 12 -13 8h-8l-8 5 -8 2 -16 13 -11 -8 -13 -3 -16 -5 -14 -18z"
         android:strokeColor="#000000"
         android:strokeWidth="12"
         android:strokeLineCap="round"

@@ -4,8 +4,9 @@
     android:width="192dp"
     android:height="192dp">
     <path
-        android:pathData="M133.65 52.11l-2.564 -27.094m0.408 3.882C61.662 1.38 51.477 64.095 76.007 79.733l45.265 28.857c29.81 19.003 17.5 84.586 -61.06 52.883m1 5.536l-5.448 -30.168"
+        android:pathData="M132.563 52.7l-1.758 -19.242c-0.205 -2.245 -1.703 -4.22 -3.82 -4.995 -64.597 -23.67 -73.73 36.33 -50.346 51.489l43.915 28.469c28.521 18.488 17.301 81.666 -56.11 53.416a5.98 5.98 0 0 1 -3.706 -4.493L57 136.292"
         android:strokeColor="#000000"
-        android:strokeWidth="12"
-        android:strokeLineCap="round" />
+        android:strokeWidth="14"
+        android:strokeLineCap="round"
+        android:strokeLineJoin="round" />
 </vector>

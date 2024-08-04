@@ -8,12 +8,12 @@
         android:strokeColor="#000000"
         android:strokeWidth="12" />
     <path
-        android:pathData="M96 132v15M51 40.897C61.559 29.39 77.939 22 96.33 22c17.906 0 33.907 7.005 44.483 17.997 0.286 0.297 0.568 0.597 0.846 0.9"
+        android:pathData="M96 132v15M51 40.897C61.559 29.39 77.939 22 96.33 22c17.906 0 33.907 7.005 44.483 17.997q0.429 0.446 0.846 0.9"
         android:strokeColor="#000000"
         android:strokeWidth="12"
         android:strokeLineCap="round" />
     <path
-        android:pathData="M65.439 53.216c7.357 -8.019 18.77 -13.167 31.585 -13.167 12.478 0 23.627 4.881 30.997 12.54 0.199 0.207 0.395 0.416 0.589 0.627"
+        android:pathData="M65.439 53.216c7.357 -8.019 18.77 -13.167 31.585 -13.167 12.478 0 23.627 4.881 30.997 12.54q0.298 0.31 0.589 0.627"
         android:strokeColor="#000000"
         android:strokeWidth="12"
         android:strokeLineCap="round" />

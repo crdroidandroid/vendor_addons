@@ -24,7 +24,7 @@
         android:strokeWidth="12"
         android:strokeLineCap="round" />
     <path
-        android:pathData="M138 70H54c1.514 -8.906 10.216 -36 42 -36s40.486 27.094 42 36z"
+        android:pathData="M138 70H54c1.514 -8.906 10.216 -36 42 -36s40.486 27.094 42 36"
         android:strokeColor="#000000"
         android:strokeWidth="12"
         android:strokeLineCap="round"
@@ -35,7 +35,7 @@
         android:strokeWidth="12"
         android:strokeLineCap="round" />
     <path
-        android:pathData="M56 92l23.876 20.202A6.003 6.003 0 0 1 82 116.783V170"
+        android:pathData="M56 92l23.876 20.202A6 6 0 0 1 82 116.783V170"
         android:strokeColor="#000000"
         android:strokeWidth="12"
         android:strokeLineCap="round" />

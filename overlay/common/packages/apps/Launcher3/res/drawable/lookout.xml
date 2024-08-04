@@ -12,7 +12,7 @@
         android:strokeColor="#000000"
         android:strokeWidth="12" />
     <path
-        android:pathData="M111 105.751c-4.257 -2.457 -10.085 -3.751 -15 -3.751 -4.915 0 -10.743 1.294 -15 3.751M22 112c0 -19 28 -63 34 -63s22 44 22 63m36 0c0 -19 16 -63 22 -63s34 44 34 63"
+        android:pathData="M111 105.751c-4.257 -2.457 -10.085 -3.751 -15 -3.751s-10.743 1.294 -15 3.751M22 112c0 -19 28 -63 34 -63s22 44 22 63m36 0c0 -19 16 -63 22 -63s34 44 34 63"
         android:strokeColor="#000000"
         android:strokeWidth="12"
         android:strokeLineCap="round" />

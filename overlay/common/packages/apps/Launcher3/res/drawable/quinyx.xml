@@ -9,7 +9,7 @@
         android:strokeWidth="12"
         android:strokeLineCap="round" />
     <path
-        android:pathData="M170 169a80.998 80.998 0 0 0 -81 -81"
+        android:pathData="M170 169a81 81 0 0 0 -81 -81"
         android:strokeColor="#000000"
         android:strokeWidth="12"
         android:strokeLineCap="round" />

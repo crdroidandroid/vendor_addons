@@ -10,7 +10,7 @@
         android:strokeLineCap="round"
         android:strokeLineJoin="round" />
     <path
-        android:pathData="M146 70H46m50 23s8 10 24 8c0 20 -12 46 -24 46s-24 -26 -24 -46c16 2 24 -8 24 -8Z"
+        android:pathData="M146 70H46m50 23s8 10 24 8c0 20 -12 46 -24 46s-24 -26 -24 -46c16 2 24 -8 24 -8"
         android:strokeColor="#000000"
         android:strokeWidth="10"
         android:strokeLineCap="round"

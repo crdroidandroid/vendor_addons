@@ -9,7 +9,7 @@
         android:strokeWidth="12"
         android:strokeLineJoin="round" />
     <path
-        android:pathData="M22 33.38l8.54 28.47L22 152.92l48.39 -8.08V33.38H22zm142.31 28.47L170 33.38h-43.83l-4.56 22.77H98.85v17.08l5.69 5.69h17.07v28.47H98.85v34.77l71.15 5.07 -5.69 -85.38z"
+        android:pathData="M22 33.38l8.54 28.47L22 152.92l48.39 -8.08V33.38zm142.31 28.47L170 33.38h-43.83l-4.56 22.77H98.85v17.08l5.69 5.69h17.07v28.47H98.85v34.77l71.15 5.07z"
         android:strokeColor="#000000"
         android:strokeWidth="12"
         android:strokeLineJoin="round" />

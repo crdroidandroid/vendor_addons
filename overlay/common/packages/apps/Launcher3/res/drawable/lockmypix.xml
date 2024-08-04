@@ -9,7 +9,7 @@
         android:strokeWidth="12"
         android:strokeLineJoin="round" />
     <path
-        android:pathData="M82 117.556L96 110l14 7.556v17.333L96 142l-14 -7.111v-17.333z"
+        android:pathData="M82 117.556L96 110l14 7.556v17.333L96 142l-14 -7.111z"
         android:strokeColor="#000000"
         android:strokeWidth="12"
         android:strokeLineJoin="round" />
