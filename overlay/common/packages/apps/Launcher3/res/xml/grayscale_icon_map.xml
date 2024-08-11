@@ -431,8 +431,8 @@
     <icon drawable="@drawable/asos" package="com.asos.app" />
     <icon drawable="@drawable/aspect_pro" package="com.andrewkhandr.aspectpro" />
     <icon drawable="@drawable/asphalt_8_airborne" package="com.gameloft.android.ANMP.GloftA8HM" />
-    <icon drawable="@drawable/asphalt_9_legends" package="com.gameloft.android.ANMP.GloftA9HM" />
-    <icon drawable="@drawable/asphalt_9_legends" package="com.gameloft.android.SAMS.GloftA9SS" />
+    <icon drawable="@drawable/asphalt_legends_unite" package="com.gameloft.android.ANMP.GloftA9HM" />
+    <icon drawable="@drawable/asphalt_legends_unite" package="com.gameloft.android.SAMS.GloftA9SS" />
     <icon drawable="@drawable/assistant_for_stardew_valley" package="com.ithersta.assistantforsv.android" />
     <icon drawable="@drawable/assistive_touch" package="com.appsgenz.assistivetouch.phone.ios" />
     <icon drawable="@drawable/astracrypt" package="com.nevidimka655.astracrypt" />
