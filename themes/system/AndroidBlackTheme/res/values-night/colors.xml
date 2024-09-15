@@ -53,4 +53,8 @@
     <color name="primary_dark_device_default_settings">#000000</color>
     <color name="primary_device_default_dark">#000000</color>
     <color name="primary_device_default_settings">#000000</color>
+
+    <color name="system_surface_container_dark">#000000</color>
+    <color name="system_surface_container_high_dark">#000000</color>
+    <color name="system_surface_dim_dark">#000000</color>
 </resources>
