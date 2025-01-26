@@ -6,34 +6,41 @@
     <path
         android:pathData="M170 96A74 74 0 0 1 22 96A74 74 0 0 1 170 96Z"
         android:strokeColor="#000000"
-        android:strokeWidth="12" />
+        android:strokeWidth="12"
+        android:strokeLineCap="round"
+        android:strokeLineJoin="round" />
     <path
-        android:pathData="M104.4 44A8.4 8.4 0 0 1 87.6 44A8.4 8.4 0 0 1 104.4 44Z"
-        android:fillColor="#000000"
+        android:pathData="M100 45A4 4 0 0 1 92 45A4 4 0 0 1 100 45Z"
         android:strokeColor="#000000"
-        android:strokeWidth="1" />
+        android:strokeWidth="8"
+        android:strokeLineCap="round"
+        android:strokeLineJoin="round" />
     <path
-        android:pathData="M153.9 79.9A8.4 8.4 0 0 1 137.1 79.9A8.4 8.4 0 0 1 153.9 79.9Z"
-        android:fillColor="#000000"
+        android:pathData="M70 137A4 4 0 0 1 62 137A4 4 0 0 1 70 137Z"
         android:strokeColor="#000000"
-        android:strokeWidth="1" />
+        android:strokeWidth="8"
+        android:strokeLineCap="round"
+        android:strokeLineJoin="round" />
     <path
-        android:pathData="M54.9 79.9A8.4 8.4 0 0 1 38.1 79.9A8.4 8.4 0 0 1 54.9 79.9Z"
-        android:fillColor="#000000"
+        android:pathData="M130 137A4 4 0 0 1 122 137A4 4 0 0 1 130 137Z"
         android:strokeColor="#000000"
-        android:strokeWidth="1" />
+        android:strokeWidth="8"
+        android:strokeLineCap="round"
+        android:strokeLineJoin="round" />
     <path
-        android:pathData="M73 137.5A8.4 8.4 0 0 1 56.2 137.5A8.4 8.4 0 0 1 73 137.5Z"
-        android:fillColor="#000000"
+        android:pathData="M52 80A4 4 0 0 1 44 80A4 4 0 0 1 52 80Z"
         android:strokeColor="#000000"
-        android:strokeWidth="1" />
+        android:strokeWidth="8"
+        android:strokeLineCap="round"
+        android:strokeLineJoin="round" />
     <path
-        android:pathData="M135.8 137.5A8.4 8.4 0 0 1 119 137.5A8.4 8.4 0 0 1 135.8 137.5Z"
-        android:fillColor="#000000"
+        android:pathData="M148 80A4 4 0 0 1 140 80A4 4 0 0 1 148 80Z"
         android:strokeColor="#000000"
-        android:strokeWidth="1" />
+        android:strokeWidth="8"
+        android:strokeLineCap="round"
+        android:strokeLineJoin="round" />
     <path
-        android:pathData="M81.9 73.7v44.7m0 -22.4h11.5l18.1 -21.7M93.3 96l20.2 22.3"
+        android:pathData="M81 70v23.942M81 118V93.942m0 0L93 94m0 0l20 -24M93 94l22 24"
         android:strokeColor="#000000"
         android:strokeWidth="12"
         android:strokeLineCap="round"
