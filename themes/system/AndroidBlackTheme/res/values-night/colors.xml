@@ -57,5 +57,8 @@
     <color name="system_surface_bright_dark">#171717</color>
     <color name="system_surface_container_dark">#000000</color>
     <color name="system_surface_container_high_dark">#171717</color>
+    <color name="system_surface_container_highest_dark">#191919</color>
+    <color name="system_surface_container_low_dark">#000000</color>
+    <color name="system_surface_container_lowest_dark">#000000</color>
     <color name="system_surface_dim_dark">#000000</color>
 </resources>
